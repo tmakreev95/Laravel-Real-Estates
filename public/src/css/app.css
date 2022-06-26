@@ -1,0 +1,113 @@
+/* Centers */
+.sign-in-wrapper, .sign-up-wrapper, 
+.real-estate-edit-wrapper, .category-edit-wrapper,
+.real-estate-add-wrapper, .contact-us-wrapper {
+  margin: 50px auto;
+} 
+.sign-in-wrapper h5 {
+  font-size: 1.1rem;
+}
+.edit-realestate{
+  float: right;
+  margin-right: 10px;
+}
+.real-estates-pagination{  
+  margin-left: 18px;
+  width: 25%;
+}
+.heading-real-estates-category {
+  text-align: center;
+}
+#real-estate-approve-btn{
+  margin-right: 10px;
+}
+.accordion{ 
+  width: 100%;
+}
+
+.categories-tab .btn-link {
+  width: 100%;
+  text-decoration: none;
+}
+
+.realestates-tab .btn-link {
+  width: 100%;
+  text-decoration: none;
+}
+
+#add-new-category-btn{
+  margin-right: 10px;
+}
+.thumbnail img{
+  max-height: 280px;
+  width: 100%;
+  height: 280px;
+}
+.row-index-realEstate{
+  margin-bottom: 40px;
+}
+
+.product-price-tag, .real-estate-ref{
+  font-weight: bold;
+  font-size: 16px;
+}
+.real-estate-ref{
+  margin-top: 10px;
+}
+.product-description{
+  color: #7e7e7e;
+}
+.thumbnail{
+  border: 1.5px solid #e9e9e9;
+  padding: 2%;
+  border-radius: 5px;
+}
+.row{
+  margin-top: 1%;
+}
+.dropdown-item i{
+  padding-right: 8%;
+}
+.shopping-cart-product-price-numeric{
+  font-size: 15px;
+  margin-left: 2%;
+  margin-top: 0.5%;
+}
+.shopping-cart-image-holder{
+  width: 10%;
+  margin-right: 4%;
+}
+.shopping-cart-image-holder img{
+  max-width: 80%;
+}
+.shopping-cart-product-price{
+  font-size: 18px;
+}
+.orders-span{
+  font-size: 22px;
+  font-weight: lighter;
+  margin-top: 1.5%;
+}
+.greetings{
+  text-align: center;
+}
+.panel-footer.pull-right strong{
+  font-size: 18px;
+  font-weight: lighter;
+}
+.panel-footer.pull-right strong span{
+  font-size: 20px;
+  font-weight: 400;
+}
+.orders-icon{
+  font-size: 20px;
+  margin-top: 2.5%;
+}
+
+.user-profile-roles{
+  float: left;
+}
+
+.add-new-real-estate-btn{
+  float: right;
+}
