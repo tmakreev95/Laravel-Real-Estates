@@ -42,7 +42,7 @@ class MailController extends Controller{
             'messageContact' => $messageContact,
             'from' => $from,
             'subject' => $subject), function($message) use ($data) {            
-            $message->to('real.estates.project.2020@gmail.com')
+            $message->to('your-email-goes-here')
             ->subject($data['subject'])
             // ->attach($data['attachment']->getRealPath(), array(
             //     'as' => $data['attachment']->getClientOriginalName(),
